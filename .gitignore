@@ -5,6 +5,9 @@
 __pycache__/
 *.py[cod]
 
+# Gradio flagging/cache dir
+.gradio/
+
 # Runtime workspace/output dirs created by the Gradio app
 aduc_workspace/
 app/aduc_workspace/
