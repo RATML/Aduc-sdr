@@ -1,0 +1,13 @@
+{
+  "name": "ADUC-SDR (Euia-AducSdr)",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "gradio-demo",
+      "command": "cd app && ../.venv/bin/python app.py"
+    }
+  ],
+  "ports": [
+    7860
+  ]
+}

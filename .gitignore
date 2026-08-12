@@ -1,0 +1,12 @@
+# Python virtualenv created by .cursor/install.sh
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Runtime workspace/output dirs created by the Gradio app
+aduc_workspace/
+app/aduc_workspace/
+app/downloaded_models_gradio/
+app/models/*.safetensors
